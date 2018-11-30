@@ -1,0 +1,8 @@
+export CLUSTER_NAME=
+export NODE_COUNT="4"
+export K8S_VERSION="1.11.4"
+export AKS_RG="MyRG"
+export LOCATION="uksouth"
+export NODE_SIZE="Standard_DS2_v2" #2cpus 7G
+export DISK_SIZE=30
+export VMS_RG=
